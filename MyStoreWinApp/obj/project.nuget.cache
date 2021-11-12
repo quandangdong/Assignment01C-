@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+wwou//dkuLIvC48TsEwarI2IhePcbjS7qqNnn4ita7JmeMndUig9NTPhc5fisp+hHthtGVSxYxHlHBy29qEA==",
+  "success": true,
+  "projectFilePath": "D:\\FPTU\\Kỳ5\\PRN-coVan\\DemoProject.Net\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.abstractions.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.binder.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.fileextensions.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0-rc.2.21480.5\\microsoft.extensions.configuration.json.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0-rc.2.21480.5\\microsoft.extensions.fileproviders.abstractions.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0-rc.2.21480.5\\microsoft.extensions.fileproviders.physical.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0-rc.2.21480.5\\microsoft.extensions.filesystemglobbing.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-rc.2.21480.5\\microsoft.extensions.primitives.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-rc.2.21480.5\\system.runtime.compilerservices.unsafe.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.encodings.web\\6.0.0-rc.2.21480.5\\system.text.encodings.web.6.0.0-rc.2.21480.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.text.json\\6.0.0-rc.2.21480.5\\system.text.json.6.0.0-rc.2.21480.5.nupkg.sha512"
+  ],
+  "logs": []
+}
